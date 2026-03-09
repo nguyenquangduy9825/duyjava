@@ -7,7 +7,7 @@
 
 </head>
 <body>
-   <h1 style="color:red;">Họ và tên sinh viên : Nguyễn Quang Duy :20233525
+   <h1 style="color:red;">Họ và tên sinh viên : Nguyễn văn dũng  :20233525
 </h1>
 
     
